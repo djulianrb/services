@@ -1,0 +1,52 @@
+{
+  "verb_patterns": {
+    "verb+ing": [
+      "admit",
+      "appreciate",
+      "avoid",
+      "can't help",
+      "consider",
+      "delay",
+      "deny",
+      "discuss",
+      "dislike",
+      "enjoy",
+      "finish",
+      "give up",
+      "imagine",
+      "involve",
+      "mention",
+      "mind",
+      "miss",
+      "practise",
+      "suggest"
+    ],
+    "to+verb": [
+      "afford",
+      "agree",
+      "appear",
+      "arrange",
+      "ask",
+      "attempt",
+      "choose",
+      "decide",
+      "expect",
+      "happen",
+      "help",
+      "hope",
+      "intend",
+      "learn",
+      "manage",
+      "offer",
+      "plan",
+      "prepare",
+      "promise",
+      "refuse",
+      "seem",
+      "tend",
+      "want",
+      "wish",
+      "would like"
+    ]
+  }
+}
